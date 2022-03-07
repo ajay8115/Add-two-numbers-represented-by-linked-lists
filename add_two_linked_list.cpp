@@ -19,6 +19,7 @@ struct Node
 class Solution
 {
 public:
+    // In leetcode question no need to reverse
     Node *reverse(struct Node *head)
     {
         Node *cur = NULL;
